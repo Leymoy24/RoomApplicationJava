@@ -11,4 +11,5 @@
     <color name="lightGray">#F2F2F2</color>
     <color name="sky_blue">#87CEEB</color>
     <color name="lightCyan">#E0FFFF</color>
+    <color name="buttonLabel">#FFFFFF</color>
 </resources>
